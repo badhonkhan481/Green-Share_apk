@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\tariqul\\Downloads\\Compressed\\turboshare-16\\codecanyon-24505829-turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration\\Turbo Share 1.6\\GreenShar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tariqul\\.gradle\\caches\\transforms-2\\files-2.1\\7b2903dff2ccde14a490470d70a42129\\jetified-core-0.9.6.0\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}

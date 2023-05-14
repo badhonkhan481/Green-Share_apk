@@ -1,0 +1,7 @@
+#Sun Sep 05 16:04:02 BDT 2021
+base.1=C\:\\Users\\tariqul\\Downloads\\Compressed\\turboshare-16\\codecanyon-24505829-turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration\\Turbo Share 1.6\\GreenShar\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+path.1=classes2.dex
+base.0=C\:\\Users\\tariqul\\Downloads\\Compressed\\turboshare-16\\codecanyon-24505829-turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration\\Turbo Share 1.6\\GreenShar\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

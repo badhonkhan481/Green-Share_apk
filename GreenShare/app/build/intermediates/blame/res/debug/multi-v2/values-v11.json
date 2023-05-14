@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\tariqul\\Downloads\\Compressed\\turboshare-16\\codecanyon-24505829-turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration\\Turbo Share 1.6\\GreenShar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tariqul\\.gradle\\caches\\transforms-2\\files-2.1\\7b2903dff2ccde14a490470d70a42129\\jetified-core-0.9.6.0\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1044",
+                        "endLines": "18,35",
+                        "endColumns": "10,10",
+                        "endOffsets": "1039,2010"
+                    }
+                }
+            ]
+        }
+    ]
+}
